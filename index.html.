@@ -1,0 +1,88 @@
+<html>
+
+<head>
+
+ <title>
+   ACORB 
+ </title> 
+
+
+<hr>
+ <p>
+
+<img src ="E:\front end/LOGO ACORB.jpg" align="right"><h1><b>
+<p style="font-family:Helvetica;"> BIENVENIDOS A ACORB</b>
+</h1>
+ 
+</p>
+</hr>
+  
+</head>
+
+<body>
+
+<hr>
+ <h2>
+
+<p style="font-family:Helvetica;">
+ Asociación Colombiana De Recicladores De Bogotá
+</h2>
+</hr>
+
+<hr>
+<hr>
+<p align="center"> <img src ="E:\front end/20191211_124401.jpg"
+ border="5"
+width="800" height="450">
+</p>
+</hr>
+</hr>
+
+<h2> 
+<p style="font-family:Helvetica;">
+Somos una asociación prestadora del servicio público de aseo que se dedica al aprovechamiento de residuos en Bogotá    
+</p>
+</h2> 
+
+
+
+
+
+
+<table border="0" width="95%" height="auto"><tr>
+
+<hr>
+<td><center><center>
+<center><p style="font-family:Helvetica;"><h2>COMUNICATE CON NOSOTROS</h2></p></center> <img src="E:\front end/telefono.jpg"
+border="0" width="125" height="125">
+<center><p style="font-family:Helvetica;">acorb2014@outlook.com
+</p>
+ <div>
+<p style="font-family:Helvetica;">TEL: 3123701531</div></p></center>
+</center></td>
+
+<td><center><center>
+<p style="font-family:Helvetica;"><h2>SEDES</h2></p></center><img src="E:\front end/corazon.jpg" 
+border="0"width="125" height="125">
+<center><p style="font-family:Helvetica;">SEDE PRINCIPAL:
+</p>
+<div>
+<p style="font-family:Helvetica;">Carrera 49 b sur 37-86</div></p></center>
+</center></td>
+
+<td><center><center>
+<p style="font-family:Helvetica;"><h2> HORARIO DE ATENCION</h2></p></center><img src="E:\front end/like.jpg"
+border="0"width="125" height="150">
+<center><p style="font-family:Helvetica;">Lunes - Viernes
+<div><p style="font-family:Helvetica;"> 08:00 a.m. - 5:00 p.m.</div></p></center></center></td>
+</hr>
+
+
+</tr></table>
+
+
+
+  
+</body>
+</html>
+
